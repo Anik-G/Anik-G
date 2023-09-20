@@ -91,7 +91,7 @@
   -- <b>IT PROFESSIONAL BY PASSION </b>
 
 
-I am <b> ANIK </b>, and as of September 2023, I possess over 8 years of experience in the IT industry, specializing in Digital IT Infrastructure & Automation. My expertise spans a wide range of areas, including <b>AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall management, DevOps automation, Monitoring & Alerting, Infrastructure as Code (IAAC), Continuous Integration/Continuous Deployment (CI/CD), Microservice Orchestration, Infrastructure security, </b> and more. I hold a <b>B.Tech</b> degree in Electronics and Communication Engineering, which I completed in 2015.
+I am <b> ANIK </b>, and as of September 2023, I possess over 8 years of experience in the IT industry, specializing in Digital IT Infrastructure & Automation. My expertise spans a wide range of areas, including <b> AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall management, DevOps automation, Monitoring & Alerting, Infrastructure as Code (IAAC), Continuous Integration/Continuous Deployment (CI/CD), Microservice Orchestration, Infrastructure security, </b> and more. I hold a <b>B.Tech</b> degree in Electronics and Communication Engineering, which I completed in 2015.
 
 Professionally, I am known for my strong aptitude for learning and my ability to thrive in multicultural environments. I have a friendly disposition and excel at motivating team members. Through a combination of intelligence and hard work, I have honed effective research and analytical skills, allowing me to consistently meet deadlines even in high-pressure situations. I have always been passionate about delving into the fundamental concepts that underpin emerging technologies and technological fields.
 
