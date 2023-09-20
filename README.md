@@ -11,7 +11,10 @@
       <img alt="AWS" src="https://img.shields.io/badge/PROFESSIONAL-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <p align="center">     
     <a href="[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)]">
-      <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" />   
+      <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" /> 
+    <p align="center">     
+    <a href="[![CKAD](https://img.shields.io/badge/CKAD%-232F7E?style=flat-square&logo=Kubernetes)]">
+      <img alt="CKAD Certified" src="https://img.shields.io/badge/CKAD-232F7E?style=flat-square&logo=Kubernetes" /> 
     </a>
     </a>
     </a>
@@ -87,18 +90,21 @@
  <b>ELECTRONICS & COMMUNICATION ENGINEER BY CERTIFICATION </b>
   -- <b>IT PROFESSIONAL BY PASSION </b>
 
- I'm <b> ANIK </b>, I’ve 8 year+(counting) of IT Experience(as of may, 2021) in Digital IT Infrastructure & automation domain like <b>(AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I'm <b> ANIK </b>, I’ve 8 year+(counting) of IT Experience(as of sept, 2021) in Digital IT Infrastructure & Automation domain like <b>(AWS Cloud, Azure Cloud, Windows, Linux, Application integration, Firewall, DevOps automation,Monitoring & Alerting, IAAC, CI/CD, Microservice Orchestration ,Infra security etc)</b>.I've completed <b>B.Tech</b> in E&C Engineering in 2015. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my smart & hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind popular Technological Fields. 
 
 
 
 </div>
 
-## Global Certifications(IT) >>>
+## Global Certifications(IT) 
 
+[![Pagerduty Fundamentals](https://img.shields.io/badge/PagerDuty%20Foundational%20Practitioner%20-Certification-green)](https://www.credly.com/badges/58514939-f430-4579-a710-8b92a7a7b074?source=linked_in_profile)
+[![GitOps with ArgoCD](https://img.shields.io/badge/GitOps%20%20Fundamentals-2E7E23?style=flat-square&logo=Git)](https://codefresh.learnworlds.com/certificate/6197cb3b2fbcec4da328aab2/user/61babbd1315a475fa83cb7d6)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20DevOps%20Expert%20AZ%20400-232F7E?style=flat-square&logo=microsoft-azure)](https://www.credly.com/badges/61f4f21f-22de-4e8d-b91b-a30420b65f20)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Certified:%20Azure%20Administrator%20Associate-232F7E?style=flat-square&logo=microsoft-azure)](https://www.credly.com/badges/6c366bc7-1e49-48f4-a8b4-2d2dde503c5b?source=linked_in_profile)
  [![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations-2020%20Certified%20Associate-FF0000?style=flat-square&logo=oracle&logoColor=red)](https://www.credly.com/badges/6770de0d-f3ca-4276-885c-4d17955dbe7c/linked_in_profile)
  [![AWS](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile)
- 
+ [![CKAD Certified](https://img.shields.io/badge/CKAD%20Certified-232F7E?style=flat-square&logo=Kubernetes)]([https://www.credly.com/badges/f29c1855-e33b-4c8f-9a00-bae6c1f3ac6d/linked_in_profile](https://www.credly.com/badges/9914707f-549a-43fd-b06d-d8e7e09ad482/linked_in?t=rirnhf))
 
 ## My Profile (Curriculum vitae) >>> 📑
 
@@ -149,6 +155,13 @@ As we all know that under <b>engineering</b>, technical skills always provide un
   <p align="center">
   <img src="https://github.com/AnikG-Org/AnikG-Org/blob/main/Devops1.jpeg" width="614" height="350" />
 </p>
+ 
+ 
+ ## My YouTube Channel - Please like n Subscribe
+ 
+ 1st playlist About: Helm-Chart-Project-k8s
+ 
+ [![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/200px-YouTube_social_white_squircle.svg.png)](https://youtube.com/playlist?list=PL47QwqMy2P1fxaPwQyZAXAm7vr1mn8lNz)
  
  ## My Hobbies ✍
 
@@ -208,7 +221,6 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
 
    
 <img height="120" alt="Thanks for visiting me  @nik" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
 
 
 
